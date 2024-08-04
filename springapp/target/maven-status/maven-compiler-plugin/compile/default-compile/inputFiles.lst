@@ -1,0 +1,7 @@
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/configuration/CORSConfiguration.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/models/Student.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/controller/ApiController.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/repository/StudentRepo.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/service/StudentService.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/SpringappApplication.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/SpringappApplicationTests.java
